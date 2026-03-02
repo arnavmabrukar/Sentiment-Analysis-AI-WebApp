@@ -65,10 +65,17 @@ The system returns:
 ## 📦 Project Structure
 
 ├── app.py
+
 ├── templates/
+
 │   └── index.html
+
 ├── static/
+
 ├── assets/
+
 │   ├── app_overview.png
+
 │   └── app_results.png
+
 └── README.md
