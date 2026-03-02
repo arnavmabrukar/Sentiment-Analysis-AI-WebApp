@@ -64,18 +64,14 @@ The system returns:
 
 ## 📦 Project Structure
 
-├── app.py
-
+```bash
+Sentiment-Analysis-Web-App/
+├── app.py                # Flask backend
+├── README.md
 ├── templates/
-
-│   └── index.html
-
-├── static/
-
-├── assets/
-
-│   ├── app_overview.png
-
-│   └── app_results.png
-
-└── README.md
+│   └── index.html        # Frontend UI
+├── static/               # CSS / JS files
+└── assets/               # Screenshots used in README
+    ├── app_overview.png
+    └── app_results.png
+```
